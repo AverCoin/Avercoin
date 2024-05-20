@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="MetrisVailore" id="981b1bdf-ef61-4bdc-b2f4-ce95d52e313d">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
