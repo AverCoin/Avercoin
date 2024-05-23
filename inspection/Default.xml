@@ -40,6 +40,7 @@
         <option value="PySide6.QtWidgets.QPushButton.clicked" />
         <option value="PySide6.QtWidgets.clicked.connect" />
         <option value="stonfitest.stonfi.utils.async_lru" />
+        <option value="requests.json.text" />
       </list>
     </option>
   </inspection_tool>
