@@ -41,6 +41,7 @@
         <option value="PySide6.QtWidgets.clicked.connect" />
         <option value="stonfitest.stonfi.utils.async_lru" />
         <option value="requests.json.text" />
+        <option value="str.terminate" />
       </list>
     </option>
   </inspection_tool>
