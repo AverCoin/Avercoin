@@ -42,6 +42,7 @@
         <option value="stonfitest.stonfi.utils.async_lru" />
         <option value="requests.json.text" />
         <option value="str.terminate" />
+        <option value="daemon.DaemonContext" />
       </list>
     </option>
   </inspection_tool>
