@@ -43,6 +43,7 @@
         <option value="requests.json.text" />
         <option value="str.terminate" />
         <option value="daemon.DaemonContext" />
+        <option value="bytes.encode" />
       </list>
     </option>
   </inspection_tool>
